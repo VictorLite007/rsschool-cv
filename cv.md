@@ -1,23 +1,23 @@
 [rsschool-cv](#)
-=====
+===
 
 ### G'olib Abdullayev
-=====
+===
 
 #### Contacts
-=====
+===
 
     * Location: Khorezm,Uzbekistan
     * Email: golibabdullaev8@gmail.com
     * Github: [victorlite007](https://github.com/VictorLite007)
 
 #### About Me
-=====
+===
 
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 
 #### Skills
-=====
+===
 
     * HTML
     * CSS/SASS
@@ -25,7 +25,7 @@ I have good interpersonal skills, am an excellent team worker and very willing t
     * Git
 
 #### Code Example
-=====
+===
 
 ```
 let countBits = function(n) {
@@ -45,14 +45,14 @@ let countBits = function(n) {
 ```
 
 #### Experience
-=====
+===
 #### Education
-=====
+===
     * __School__
     * __Courses:__
         - [one million uzbek coders](https://www.uzbekcoders.uz/)
         - [HTML Academy](https://htmlacademy.ru/)
 
 #### English
-=====
+===
 __A2__ (Pre-entermediate)
