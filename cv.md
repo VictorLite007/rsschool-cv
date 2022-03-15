@@ -7,9 +7,9 @@
 #### Contacts
 =====
 
-    *Location: Khorezm,Uzbekistan
-    *Email: golibabdullaev8@gmail.com
-    *Github: [victorlite007](https://github.com/VictorLite007)
+    * Location: Khorezm,Uzbekistan
+    * Email: golibabdullaev8@gmail.com
+    * Github: [victorlite007](https://github.com/VictorLite007)
 
 #### About Me
 =====
@@ -19,10 +19,10 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 #### Skills
 =====
 
-    *HTML
-    *CSS/SASS
-    *JavaScript(basic)
-    *Git
+    * HTML
+    * CSS/SASS
+    * JavaScript(basic)
+    * Git
 
 #### Code Example
 =====
@@ -48,10 +48,10 @@ let countBits = function(n) {
 =====
 #### Education
 =====
-    *__School__
-    *__Courses:__
-        -[one million uzbek coders](https://www.uzbekcoders.uz/)
-        -[HTML Academy](https://htmlacademy.ru/)
+    * __School__
+    * __Courses:__
+        - [one million uzbek coders](https://www.uzbekcoders.uz/)
+        - [HTML Academy](https://htmlacademy.ru/)
 
 #### English
 =====
